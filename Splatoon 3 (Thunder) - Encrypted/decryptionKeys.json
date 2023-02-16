@@ -1,0 +1,33 @@
+{
+  "juea-mujintou":{
+    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00001/decryptionKey",
+    "notice_key": "83af0a1c33b4b5d697e3627f2b26eae6",
+    "start_key": "a6b18aaa104577ba3fd48b348da6592f",
+    "result_winning_team_key": "86c18e787baaceea7bcb8cc6023aeb7f",
+    "winning_team": "Alpha"
+  },
+
+  "juea-pocket":{
+    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00002/decryptionKey",
+    "notice_key": "391f6837d843ac41afa7cad1d38d064f",
+    "start_key": "faa10ae38b2dc07ad741d0acde00769f",
+    "result_winning_team_key": "93f53a114a7d1aac3fa60fa0daaab38f",
+    "winning_team": "Charlie"
+  },
+
+  "juea-taste":{
+    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00003/decryptionKey",
+    "notice_key": "8b4fb171fda1a6e0a55e2fb2fe78b5fd",
+    "start_key": "4a40f089a5feb477a7516dc32b96019e",
+    "result_winning_team_key": "fcb29118d47b50baf5fa41704c547eb6",
+    "winning_team": "Bravo"
+  },
+
+  "juea-chocolate":{
+    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00004/decryptionKey",
+    "notice_key": "6b05010d12d0c4776d6f28dbe2e40d85",
+    "start_key": "29856d15deaaaadb61e5464fdc466da6",
+    "result_winning_team_key": "cff74cb0eca14c4b7f0aa88403566d1a",
+    "winning_team": "Charlie"
+  }
+}
