@@ -29,5 +29,13 @@
     "start_key": "29856d15deaaaadb61e5464fdc466da6",
     "result_winning_team_key": "cff74cb0eca14c4b7f0aa88403566d1a",
     "winning_team": "Charlie"
+  },
+
+  "juea-cryptid":{
+    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00005/decryptionKey",
+    "notice_key": "36a1cac2248d848213517acba5c59350",
+    "start_key": "59901cf4a4f16e5f41a96c5717420a7b",
+    "result_winning_team_key": "5a41df7f6167a6b1c9b16941f4169717",
+    "winning_team": "Alpha"
   }
 }
