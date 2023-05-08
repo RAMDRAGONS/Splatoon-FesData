@@ -37,5 +37,13 @@
     "start_key": "59901cf4a4f16e5f41a96c5717420a7b",
     "result_winning_team_key": "5a41df7f6167a6b1c9b16941f4169717",
     "winning_team": "Alpha"
+  },
+
+  "juea-green":{
+    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00006/decryptionKey",
+    "notice_key": "105cf75126901a8a6cf1dd6affef551b",
+    "start_key": "c28f30bdeab0f5633cf73f31ffb7cfa6",
+    "result_winning_team_key": "b783e0ea33c24d7cdafa7e608b8d9c1b",
+    "winning_team": "Alpha"
   }
 }
