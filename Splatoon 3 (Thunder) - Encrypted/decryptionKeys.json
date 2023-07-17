@@ -45,5 +45,13 @@
     "start_key": "c28f30bdeab0f5633cf73f31ffb7cfa6",
     "result_winning_team_key": "b783e0ea33c24d7cdafa7e608b8d9c1b",
     "winning_team": "Alpha"
+  },
+
+  "juea-icecream":{
+    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00007/decryptionKey",
+    "notice_key": "7ae61b5db4977be186a3ffd9541d4702",
+    "start_key": "564ab11bd8e9623b471543667d00cb44",
+    "result_winning_team_key": "9f2faf0c0da297a57da3a41a3d60fe57",
+    "winning_team": "Alpha"
   }
 }
