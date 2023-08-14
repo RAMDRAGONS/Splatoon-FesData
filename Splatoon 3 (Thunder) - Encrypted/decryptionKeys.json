@@ -1,65 +1,65 @@
-{
-  "juea-mujintou":{
-    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00001/decryptionKey",
-    "notice_key": "83af0a1c33b4b5d697e3627f2b26eae6",
-    "start_key": "a6b18aaa104577ba3fd48b348da6592f",
-    "result_winning_team_key": "86c18e787baaceea7bcb8cc6023aeb7f",
-    "winning_team": "Alpha"
+[
+  {
+    "id": "JUEA-00001",
+    "resource_id": "juea-mujintou",
+    "base": "83af0a1c33b4b5d697e3627f2b26eae6",
+    "bh": "a6b18aaa104577ba3fd48b348da6592f",
+    "wa": "86c18e787baaceea7bcb8cc6023aeb7f"
   },
 
-  "juea-pocket":{
-    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00002/decryptionKey",
-    "notice_key": "391f6837d843ac41afa7cad1d38d064f",
-    "start_key": "faa10ae38b2dc07ad741d0acde00769f",
-    "result_winning_team_key": "93f53a114a7d1aac3fa60fa0daaab38f",
-    "winning_team": "Charlie"
+  {
+    "id": "JUEA-00002",
+    "resource_id": "juea-pocket",
+    "base": "391f6837d843ac41afa7cad1d38d064f",
+    "bh": "faa10ae38b2dc07ad741d0acde00769f",
+    "wc": "93f53a114a7d1aac3fa60fa0daaab38f"
   },
 
-  "juea-taste":{
-    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00003/decryptionKey",
-    "notice_key": "8b4fb171fda1a6e0a55e2fb2fe78b5fd",
-    "start_key": "4a40f089a5feb477a7516dc32b96019e",
-    "result_winning_team_key": "fcb29118d47b50baf5fa41704c547eb6",
-    "winning_team": "Bravo"
+  {
+    "id": "JUEA-00003",
+    "resource_id": "juea-taste",
+    "base": "8b4fb171fda1a6e0a55e2fb2fe78b5fd",
+    "bh": "4a40f089a5feb477a7516dc32b96019e",
+    "wb": "fcb29118d47b50baf5fa41704c547eb6"
   },
 
-  "juea-chocolate":{
-    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00004/decryptionKey",
-    "notice_key": "6b05010d12d0c4776d6f28dbe2e40d85",
-    "start_key": "29856d15deaaaadb61e5464fdc466da6",
-    "result_winning_team_key": "cff74cb0eca14c4b7f0aa88403566d1a",
-    "winning_team": "Charlie"
+  {
+    "id": "JUEA-00004",
+    "resource_id": "juea-chocolate",
+    "base": "6b05010d12d0c4776d6f28dbe2e40d85",
+    "bh": "29856d15deaaaadb61e5464fdc466da6",
+    "wc": "cff74cb0eca14c4b7f0aa88403566d1a"
   },
 
-  "juea-cryptid":{
-    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00005/decryptionKey",
-    "notice_key": "36a1cac2248d848213517acba5c59350",
-    "start_key": "59901cf4a4f16e5f41a96c5717420a7b",
-    "result_winning_team_key": "5a41df7f6167a6b1c9b16941f4169717",
-    "winning_team": "Alpha"
+  {
+    "id": "JUEA-00005",
+    "resource_id": "juea-cryptid",
+    "base": "36a1cac2248d848213517acba5c59350",
+    "bh": "59901cf4a4f16e5f41a96c5717420a7b",
+    "wa": "5a41df7f6167a6b1c9b16941f4169717"
   },
 
-  "juea-green":{
-    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00006/decryptionKey",
-    "notice_key": "105cf75126901a8a6cf1dd6affef551b",
-    "start_key": "c28f30bdeab0f5633cf73f31ffb7cfa6",
-    "result_winning_team_key": "b783e0ea33c24d7cdafa7e608b8d9c1b",
-    "winning_team": "Alpha"
+  {
+    "id": "JUEA-00006",
+    "resource_id": "juea-green",
+    "base": "105cf75126901a8a6cf1dd6affef551b",
+    "bh": "c28f30bdeab0f5633cf73f31ffb7cfa6",
+    "wa": "b783e0ea33c24d7cdafa7e608b8d9c1b"
   },
 
-  "juea-icecream":{
-    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00007/decryptionKey",
-    "notice_key": "7ae61b5db4977be186a3ffd9541d4702",
-    "start_key": "564ab11bd8e9623b471543667d00cb44",
-    "result_winning_team_key": "9f2faf0c0da297a57da3a41a3d60fe57",
-    "winning_team": "Alpha"
+  {
+    "id": "JUEA-00007",
+    "resource_id": "juea-icecream",
+    "base": "7ae61b5db4977be186a3ffd9541d4702",
+    "bh": "564ab11bd8e9623b471543667d00cb44",
+    "wa": "9f2faf0c0da297a57da3a41a3d60fe57"
   },
 
-  "juea-life":{
-    "name": "tenants/t-dce9377b-lp1/fests/JUEA-00008/decryptionKey",
-    "notice_key": "ac2d5efae5b144bc6cd50f7f65094cc6",
-    "start_key": "625a42e41e76723b4f95644ada64d18d",
-    "result_winning_team_key": "304da60c8cac254cab4b3c0aa6bd6844",
-    "winning_team": "Alpha"
+  {
+    "id": "JUEA-00008",
+    "resource_id": "juea-life",
+    "base": "ac2d5efae5b144bc6cd50f7f65094cc6",
+    "bh": "625a42e41e76723b4f95644ada64d18d",
+    "wa": "304da60c8cac254cab4b3c0aa6bd6844"
   }
-}
+]
