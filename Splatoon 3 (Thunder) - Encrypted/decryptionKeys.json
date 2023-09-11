@@ -61,5 +61,13 @@
     "base": "ac2d5efae5b144bc6cd50f7f65094cc6",
     "bh": "625a42e41e76723b4f95644ada64d18d",
     "wa": "304da60c8cac254cab4b3c0aa6bd6844"
+  },
+
+  {
+    "id": "JUEA-00009",
+    "resource_id": "juea-oden",
+    "base": "8ca8387a5daa3ed16545e74b40e4d918",
+    "bh": "dcddee69a6bfa4ed70f1cac8b8b04e7f",
+    "wa": "1b3c4c5c644a1574c55e6371bb7b77cb"
   }
 ]
