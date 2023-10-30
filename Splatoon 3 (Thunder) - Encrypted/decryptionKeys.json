@@ -69,5 +69,13 @@
     "base": "8ca8387a5daa3ed16545e74b40e4d918",
     "bh": "dcddee69a6bfa4ed70f1cac8b8b04e7f",
     "wa": "1b3c4c5c644a1574c55e6371bb7b77cb"
+  },
+
+  {
+    "id": "JUEA-00010",
+    "resource_id": "juea-maple",
+    "base": "104b846fc9e938cf121eb38c1160559f",
+    "bh": "3a7ef41a4a882675f1d83427ee40edeb",
+    "wc": "eb4f44c847053a33d5145cae7676bcff"
   }
 ]
