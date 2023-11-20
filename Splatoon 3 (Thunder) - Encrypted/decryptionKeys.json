@@ -77,5 +77,21 @@
     "base": "104b846fc9e938cf121eb38c1160559f",
     "bh": "3a7ef41a4a882675f1d83427ee40edeb",
     "wc": "eb4f44c847053a33d5145cae7676bcff"
+  },
+
+  {
+    "id": "J-00011",
+    "resource_id": "j-naniyaki",
+    "base": "f8c72953b0ec424bc38977a192550a60",
+    "bh": "93b0b51d7b8094ba7a160af3bcc487fc",
+    "wb": "e915166aedc3a736160626024800dc9f"
+  },
+
+  {
+    "id": "UEA-90011",
+    "resource_id": "uea-greeting",
+    "base": "4addb1ab1cda2b7bb9eb9ccebde0cafc",
+    "bh": "5c2af7b643f5b375ae0c7faddb17afb8",
+    "wa": "83f7f7c47a7a8344b814d1c49f34f9f7 "
   }
 ]
