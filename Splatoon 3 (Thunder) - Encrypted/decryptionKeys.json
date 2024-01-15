@@ -93,5 +93,13 @@
     "base": "4addb1ab1cda2b7bb9eb9ccebde0cafc",
     "bh": "5c2af7b643f5b375ae0c7faddb17afb8",
     "wa": "83f7f7c47a7a8344b814d1c49f34f9f7"
+  },
+
+  {
+    "id": "JUEA-00012",
+    "resource_id": "juea-stove",
+    "base": "71b7cfa78ecd3ea369efffd81ff3113a",
+    "bh": "ab4cc4b405a55b616b4e6b9854e65b7c",
+    "wc": "aedfce37cda661d7f8c0ad05a17077e7"
   }
 ]
