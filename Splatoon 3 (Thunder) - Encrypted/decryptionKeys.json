@@ -101,5 +101,21 @@
     "base": "71b7cfa78ecd3ea369efffd81ff3113a",
     "bh": "ab4cc4b405a55b616b4e6b9854e65b7c",
     "wc": "aedfce37cda661d7f8c0ad05a17077e7"
+  },
+
+  {
+    "id": "J-00013",
+    "resource_id": "j-filling",
+    "base": "da914185bc8b0b2b13909d6bb7df1dd7",
+    "bh": "7a3159579730694ec5c9736079dec5b3",
+    "wc": "da1e0b71bfb53a0442c4ab0cc73a19d8"
+  },
+
+  {
+    "id": "UEA-00013",
+    "resource_id": "uea-weekend",
+    "base": "68bf607e2664b1e153d87e711e763bc5",
+    "bh": "e0ec4f8c1b9c51512053c21c64f762a9",
+    "wa": "f7714e5040be4bcd4aa24ed569119c6c"
   }
 ]
