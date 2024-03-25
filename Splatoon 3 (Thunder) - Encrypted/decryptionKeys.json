@@ -117,5 +117,21 @@
     "base": "68bf607e2664b1e153d87e711e763bc5",
     "bh": "e0ec4f8c1b9c51512053c21c64f762a9",
     "wa": "f7714e5040be4bcd4aa24ed569119c6c"
+  },
+
+  {
+    "id": "J-00014",
+    "resource_id": "j-potato",
+    "base": "add036673967ecc3ed409f173e51bfc4",
+    "bh": "4782d8004a3faf34de036b2e0915618d",
+    "wa": "44c2688db7dd1503cdd3700d2e5b853c"
+  },
+
+  {
+    "id": "UEA-00014",
+    "resource_id": "uea-band",
+    "base": "cfdebaa8b8c7a4c1afd0d4bba0636562",
+    "bh": "5b60d4c0f4b6a461b934fab710c7cd1f",
+    "wc": "06c51087d56e29b9e84dae7a50c0b693"
   }
 ]
