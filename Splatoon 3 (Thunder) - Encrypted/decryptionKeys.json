@@ -133,5 +133,13 @@
     "base": "cfdebaa8b8c7a4c1afd0d4bba0636562",
     "bh": "5b60d4c0f4b6a461b934fab710c7cd1f",
     "wc": "06c51087d56e29b9e84dae7a50c0b693"
+  },
+
+  {
+    "id": "JUEA-00015",
+    "resource_id": "juea-dumpling",
+    "base": "6103e2a60124f7fe9892acfad131ab57",
+    "bh": "5bc564cf1855a4c1f30616fc864ff0b6",
+    "wc": "363e7332bc3ab734fd423f7d4ad1480d"
   }
 ]
