@@ -141,5 +141,13 @@
     "base": "6103e2a60124f7fe9892acfad131ab57",
     "bh": "5bc564cf1855a4c1f30616fc864ff0b6",
     "wc": "363e7332bc3ab734fd423f7d4ad1480d"
+  },
+
+  {
+    "id": "JUEA-00016",
+    "resource_id": "juea-endofworld",
+    "base": "d6a4d390e60242eb7c6adc26887a699c",
+    "bh": "417479f4f1e3056c56136ff1aee48499",
+    "wb": "5abec8373aa769e0190026ccbc546a2a"
   }
 ]
