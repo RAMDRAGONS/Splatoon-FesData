@@ -157,5 +157,13 @@
     "base": "bbfb3007af47fd42ee3c530773fde7d4",
     "bh": "b92a4be75e723e61f16bb0a475adb14b",
     "wc": "8532e0d4641f47e168c547f29b7d6140"
+  },
+
+  {
+    "id": "JUEA-00018",
+    "resource_id": "juea-carbo",
+    "base": "e767489021ab6d49d1105c8545864064",
+    "bh": "ec45a5105a25f447e18afa1ef2167fd9",
+    "wb": "43b55cca1661aa5e75a6cbe004744b5f"
   }
 ]
