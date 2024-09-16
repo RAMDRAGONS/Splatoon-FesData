@@ -165,5 +165,13 @@
     "base": "e767489021ab6d49d1105c8545864064",
     "bh": "ec45a5105a25f447e18afa1ef2167fd9",
     "wb": "43b55cca1661aa5e75a6cbe004744b5f"
+  },
+
+  {
+    "id": "JUEA-00019",
+    "resource_id": "juea-sand",
+    "base": "e7196b026a391a1845ec066704c3df17",
+    "bh": "6d576d6c83fb0713e9c248b702154f93",
+    "wa": "640d3e6a6f7ca8f32a1447a2dce0dab1"
   }
 ]
