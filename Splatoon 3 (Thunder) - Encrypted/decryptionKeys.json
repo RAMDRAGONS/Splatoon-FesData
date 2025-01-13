@@ -181,5 +181,13 @@
     "base": "fdb650fb64da9668a5ffd51deeff3469",
     "bh": "c7fd25cbd9dc880d3be4f3166e407ee1",
     "wc": "cf152bfa8ce247da371bf01cba7e4353"
+  },
+
+  {
+    "id": "JUEA-00101",
+    "resource_id": "juea-stove2",
+    "base": "6b49a5f051f7dfd3e132afac3fcb87ad",
+    "bh": "a0a8c4a3ead31b7d2156bf94a61ebd33",
+    "wc": "4a49f745bb4a0379f1fcedf24da9dbda"
   }
 ]
