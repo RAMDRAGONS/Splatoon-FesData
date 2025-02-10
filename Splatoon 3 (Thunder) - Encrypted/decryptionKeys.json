@@ -189,5 +189,13 @@
     "base": "6b49a5f051f7dfd3e132afac3fcb87ad",
     "bh": "a0a8c4a3ead31b7d2156bf94a61ebd33",
     "wc": "4a49f745bb4a0379f1fcedf24da9dbda"
+  },
+
+  {
+    "id": "JUEA-00200",
+    "resource_id": "juea-chocolate",
+    "base": "6b05010d12d0c4776d6f28dbe2e40d85",
+    "bh": "29856d15deaaaadb61e5464fdc466da6",
+    "wc": "cff74cb0eca14c4b7f0aa88403566d1a"
   }
 ]
