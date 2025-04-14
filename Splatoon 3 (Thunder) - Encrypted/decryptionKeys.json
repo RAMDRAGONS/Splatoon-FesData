@@ -197,5 +197,13 @@
     "base": "6b05010d12d0c4776d6f28dbe2e40d85",
     "bh": "29856d15deaaaadb61e5464fdc466da6",
     "wc": "cff74cb0eca14c4b7f0aa88403566d1a"
+  },
+
+  {
+    "id": "JUEA-00102",
+    "resource_id": "juea-dumpling2",
+    "base": "6444f058f9aa5f860b03a612a43c46ed",
+    "bh": "eb487decb10f4750d98c26b18ff0d81a",
+    "wc": "73cfd332551006f404916c942aac7104"
   }
 ]
