@@ -205,5 +205,13 @@
     "base": "6444f058f9aa5f860b03a612a43c46ed",
     "bh": "eb487decb10f4750d98c26b18ff0d81a",
     "wc": "73cfd332551006f404916c942aac7104"
+  },
+
+  {
+    "id": "JUEA-00103",
+    "resource_id": "juea-sweat2",
+    "base": "bb19b64d238a475ca450d73e087bbb25",
+    "bh": "8f201c71313117f90d6c67cedb6b4ec4",
+    "wc": "d4343056248ba39a5c34a79e664c4f07"
   }
 ]
