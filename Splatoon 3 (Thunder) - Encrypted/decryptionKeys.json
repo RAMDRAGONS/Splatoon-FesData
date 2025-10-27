@@ -76,6 +76,7 @@
     "resource_id": "juea-maple",
     "base": "104b846fc9e938cf121eb38c1160559f",
     "bh": "3a7ef41a4a882675f1d83427ee40edeb",
+    "wa": "3192f95137a79e7266b36bb570cbceab",
     "wc": "eb4f44c847053a33d5145cae7676bcff"
   },
 
@@ -213,5 +214,14 @@
     "base": "bb19b64d238a475ca450d73e087bbb25",
     "bh": "8f201c71313117f90d6c67cedb6b4ec4",
     "wc": "d4343056248ba39a5c34a79e664c4f07"
+  },
+
+  {
+    "id": "JUEA-00104",
+    "resource_id": "juea-maple",
+    "base": "104b846fc9e938cf121eb38c1160559f",
+    "bh": "3a7ef41a4a882675f1d83427ee40edeb",
+    "wa": "3192f95137a79e7266b36bb570cbceab",
+    "wc": "eb4f44c847053a33d5145cae7676bcff"
   }
 ]
