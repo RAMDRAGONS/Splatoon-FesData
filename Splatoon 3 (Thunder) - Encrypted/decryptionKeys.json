@@ -223,5 +223,13 @@
     "bh": "3a7ef41a4a882675f1d83427ee40edeb",
     "wa": "3192f95137a79e7266b36bb570cbceab",
     "wc": "eb4f44c847053a33d5145cae7676bcff"
+  },
+
+  {
+    "id": "JUEA-00105",
+    "resource_id": "juea-stove",
+    "base": "71b7cfa78ecd3ea369efffd81ff3113a",
+    "bh": "ab4cc4b405a55b616b4e6b9854e65b7c",
+    "wc": "aedfce37cda661d7f8c0ad05a17077e7"
   }
 ]
