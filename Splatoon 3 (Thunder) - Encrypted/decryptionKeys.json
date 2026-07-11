@@ -231,5 +231,19 @@
     "base": "71b7cfa78ecd3ea369efffd81ff3113a",
     "bh": "ab4cc4b405a55b616b4e6b9854e65b7c",
     "wc": "aedfce37cda661d7f8c0ad05a17077e7"
+  },
+
+  {
+    "id": "JUEA-00106",
+    "resource_id": "juea-dumpling",
+    "base": "6103e2a60124f7fe9892acfad131ab57",
+    "bh": "5bc564cf1855a4c1f30616fc864ff0b6",
+    "wc": "363e7332bc3ab734fd423f7d4ad1480d"
+  },
+
+  {
+    "id": "JUEA-00201",
+    "resource_id": "juea-ability",
+    "base": "3a4de0469daec893db166833becd53f3"
   }
 ]
